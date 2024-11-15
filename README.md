@@ -21,5 +21,21 @@ Features
 **Dependencies**
 
    **pandas**: For dataset manipulation.
+   
    **numpy**: For numerical operations.
+   
    **scikit-learn**: For TF-IDF vectorization and similarity computations.
+   
+
+**Example Output**
+
+For the movie "Avatar", the system recommends:
+
+**Cosine Similarity** :
+        "Aliens", "Guardians of the Galaxy", "Star Trek", "Star Wars", "Independence Day".
+        
+**Euclidean Distance** :
+        "The Fifth Element", "Prometheus", "Interstellar", "Gravity", "Star Trek".
+        
+**Jaccard Similarity** :
+        "Guardians of the Galaxy", "Star Wars", "The Fifth Element", "Aliens", "Star Trek".
