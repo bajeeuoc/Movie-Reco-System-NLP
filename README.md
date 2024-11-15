@@ -5,9 +5,9 @@ Features
 
     TF-IDF Vectorization: Converts movie overviews into numerical representations.
     Multiple Similarity Measures:
-      1  Cosine Similarity
-      2  Euclidean Distance
-      3  Jaccard Similarity
+      1.Cosine Similarity
+      2.Euclidean Distance
+      3.Jaccard Similarity
     Modular Design: Easy to extend and experiment with other similarity methods or datasets.
     Interactive Recommendations: Input a movie title to get the top recommendations based on the selected similarity method.
 
